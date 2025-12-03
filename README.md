@@ -139,16 +139,16 @@ meeting-intelligence-agent/
 
 {
   "meeting_date": "2025-11-29",
-  "participants": ["Arun", "Bharathi", "Nagaraju"],
+  "participants": ["Annie", "Brienne", "Jamie"],
   "action_items": [
     {
-      "task": "Provide next steps for TAC uptake",
-      "owner": "Nagaraju",
+      "task": "Provide next steps for Meeting Intelligence Agent uptake",
+      "owner": "Jamie",
       "due_date": "ASAP"
     }
   ],
   "decisions": [
-    "Service Logistics team will proceed with Approval Rules UI"
+    "Pepsico will proceed with Meeting Intelligence Agent(MIA) uptake."
   ]
 }
 
