@@ -1,0 +1,15 @@
+venv/
+venv311/
+.env
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+meeting_agent.db
+*.sqlite
+logs/
+recordings/
+processed/
+.DS_Store
+dist/
+build/
