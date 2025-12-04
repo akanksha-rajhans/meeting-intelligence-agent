@@ -81,7 +81,7 @@ Clean component boundaries → easy future integrations with Jira, Notion, Confl
 
 ---
 
-## 🗂 Persistence Layer — SQLite3
+## Persistence Layer — SQLite3
 
 All processed meetings are stored in a local SQLite database.
 
